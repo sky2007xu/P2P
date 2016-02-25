@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("hello,Git!");
 		System.out.println("Git is great!");
 		System.out.println("GitHub!");
+		System.out.println("GitHub2!");
 
 	}
 
